@@ -1,5 +1,5 @@
 ## 👋
-This is **Kalender** Toptas.
+This is **Kalender Toptas**.
 
 I'm a front-end web developer and lifelong learner. 
 
