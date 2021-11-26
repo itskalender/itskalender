@@ -1,7 +1,7 @@
 ## 👋
 This is **Kalender Toptas**.
 
-I'm a full-stack web developer and lifelong learner. 
+I'm a JavaScript developer and lifelong learner. 
 
 
 - 👀 I’m interested in web technologies
