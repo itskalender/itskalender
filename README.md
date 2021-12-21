@@ -8,7 +8,7 @@ I'm a JavaScript developer and lifelong learner.
 - 🌱 I’m currently trying to sharpen my **Node.js** & **JavaScript** knowledge
 - 💬 If you have any ideas about my repositories, please write me, I would be very glad :blush:
 - 📫 Reach me via email: toptaskalender@gmail.com
-- :pushpin: Here are my [LeetCode](https://leetcode.com/toptaskalender/) and [Codewars](https://www.codewars.com/users/toptaskalender) accounts
+- :pushpin: Here are my [Codewars](https://www.codewars.com/users/toptaskalender), [HackerRank](https://www.hackerrank.com/toptaskalender) and [LeetCode](https://leetcode.com/toptaskalender/) accounts
 
 <!--- 
 toptaskalender/toptaskalender is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
