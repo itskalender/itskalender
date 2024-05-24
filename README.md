@@ -1,7 +1,7 @@
 ## 👋
 This is **Kalender Toptas**.
 
-- Here are my [Codewars](https://www.codewars.com/users/toptaskalender) and [LeetCode](https://leetcode.com/toptaskalender/) accounts
+- Here are my [Codewars](https://www.codewars.com/users/itskalender) and [LeetCode](https://leetcode.com/toptaskalender/) accounts
 
 <!--- 
 toptaskalender/toptaskalender is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
