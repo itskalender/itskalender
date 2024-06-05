@@ -1,5 +1,5 @@
 ## 👋
-This is **Kalender Toptas**.
+This is **Kalender**.
 
 - Here are my [Codewars](https://www.codewars.com/users/itskalender) and [LeetCode](https://leetcode.com/toptaskalender/) accounts
 
